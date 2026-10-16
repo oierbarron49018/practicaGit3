@@ -8,7 +8,7 @@ public class Main {
 
         pedirApellido();
     }
-    public static String pedirApellido ()
+    public static  String pedirApellido ()
     {
         System.out.println("porfavor escriba sus apellidos");
         Scanner sc=new Scanner(System.in);
